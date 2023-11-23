@@ -1,15 +1,5 @@
-# Trocador de cores
+* [Página dos Projetos]()
 
-![texto](/trocador-de-cores/color-flipper.png).
+ ## Objetivo
 
-Conceitos importantes:
-
-- Arrays
-- Document.getElementById()
-- Document.querySelector()
-- AddEventListener()
-- Document.body.style.
-- BackgroundColor
-- Math.floor()
-- Math.random()
-- Array.length
+Melhorar as habilidades de codificação fazendo mini-projetos diários utilizando JS, React.
